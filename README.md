@@ -72,7 +72,7 @@ cd community-website
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/RIKI-05/MOMOMIA.git 
+git remote add upstream https://github.com/swastiswagat/MOMOMIA.git 
 ```
 
 **5.** Check the remotes for this repository.
