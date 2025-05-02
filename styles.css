@@ -1016,3 +1016,98 @@ left: -0.2rem;
 #cart{
  position:  relative !important;
 }
+
+/* Mobile-specific styles */
+@media (max-width: 767px) {
+  /* Navbar adjustments */
+  .navbar-brand {
+    font-size: 1.2rem;
+  }
+  
+  .navbar img {
+    height: 60px;
+    width: 60px;
+  }
+  
+  /* Home section */
+  .home-container {
+    padding-top: 70px;
+  }
+  
+  .homeHeading {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .homeImg {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  /* Categories section */
+  .col-4 {
+    padding: 5px;
+  }
+  
+  .product-box-layout4 {
+    margin-bottom: 10px;
+  }
+  
+  /* Menu cards */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .foodItemName p {
+    font-size: 0.9rem;
+  }
+  
+  .text-muted-small {
+    font-size: 0.8rem;
+  }
+  
+  /* Hygiene section */
+  .eatSure .row {
+    flex-direction: column;
+  }
+  
+  .borderLeft {
+    border-left: none !important;
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .eatSure img {
+    margin-bottom: 15px;
+  }
+  
+  /* Testimonials */
+  .testimonials .col-md-4 {
+    margin-bottom: 30px;
+  }
+  
+  /* Footer */
+  .footerHeadingCol, .socialMedia {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .socialMedia {
+    justify-content: center;
+  }
+  
+  /* General spacing */
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .menuHeading h1 {
+    font-size: 1.8rem;
+  }
+  
+  .card-title {
+    font-size: 1.3rem;
+  }
+}
