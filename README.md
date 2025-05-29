@@ -40,14 +40,7 @@ The website is minimized as much as possible to avoid errors when entering data.
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## Open Source Programs  <a name = "open_source_programs"></a>
-<table>
-<tr>
-  <td align="center">
-<a href="https://hacktoberfest.com/"><img src="https://user-images.githubusercontent.com/79099734/195970153-ee19d55b-20fc-4ddb-a91d-000773699c37.png" width=120px height=100px /><br /><sub><b>Hacktoberfest</b></sub></a>
- </td>
- </tr>
-</table>
+
 
 ## 📌How to Contribute📝:<a name="How-to-Contribute"></a>
 
