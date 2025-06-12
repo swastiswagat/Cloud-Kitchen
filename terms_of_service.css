@@ -56,3 +56,63 @@ li {
   
 }
 }
+
+@media only screen and (max-width: 768px) {
+  .homeHeading {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .homeBtn {
+    width: 80%;
+    font-size: 1rem;
+    margin: auto;
+    display: block;
+  }
+
+  .homeImgCol {
+    padding-top: 20px;
+  }
+
+  .navbar-brand {
+    font-size: 2rem !important;
+  }
+
+  .product-box-layout4 .item-figure {
+    height: 200px;
+  }
+
+  .card {
+    padding: 1rem;
+  }
+
+  .contact .content h2,
+  .contact .content p {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .container {
+    flex-direction: column !important;
+    padding: 10px;
+  }
+
+  .contactInfo,
+  .contactForm {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+
+  .footerHeadingCol h2 {
+    font-size: 2rem;
+  }
+
+  .socialMediaIcon {
+    font-size: 1.5rem;
+  }
+
+  #scrollToTop {
+    right: 5%;
+    bottom: 5%;
+  }
+}
